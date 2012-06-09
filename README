@@ -1,1 +1,1 @@
-I encrypted the text using RSA Encryption and decrypted using RSA Decryption algorithm.
+Implemented RSA algorithm for encrypting and decrypting a message.
